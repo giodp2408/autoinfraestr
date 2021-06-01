@@ -1,2 +1,2 @@
-# autoinfraestr
-Automatización de Infraestructura Virtualizada - Giovanny Dzul
+# Automatización de Infraestructura Virtualizada
+Jose Giovanny Dzul Puga
